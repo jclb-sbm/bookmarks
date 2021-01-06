@@ -4,6 +4,7 @@ Useful links I have found that helped me in my software development career
 
 ## VueJS
 https://overvue.dev/ - Minimalistic Beginner Guide on VueJS
+
 https://github.com/vuejs/awesome-vue - A curated list of awesome things related to Vue.js 
 
 ## UX
