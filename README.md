@@ -19,6 +19,9 @@ https://github.com/commitizen - Zen-like commit messages for internet citizens.
 ## Open Source Services 
 https://free-for.dev/#/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
+## Mindset
+https://www.youtube.com/watch?v=6vj96QetfTg&t=1999s - How the Best Hackers Learn their Craft
+
 ## Utilities
 https://spblog.net/post/2020/06/10/how-to-effectively-delete-node-modules-on-windows - Delete node_modules using rimraf
 
