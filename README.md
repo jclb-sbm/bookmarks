@@ -2,6 +2,9 @@
 # My Bookmarks
 Useful links I have found that helped me in my software development career
 
+##
+https://www.javascripttutorial.net/ - Useful Javascript Docs
+
 ## VueJS
 https://overvue.dev/ - Minimalistic Beginner Guide on VueJS
 
