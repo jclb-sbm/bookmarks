@@ -33,3 +33,7 @@ https://spblog.net/post/2020/06/10/how-to-effectively-delete-node-modules-on-win
 ## Curated Lists of other awesome devs
 https://github.com/LeCoupa/awesome-bootstrappers - Must-read articles, videos, books and tools for bootstrappers.
 https://github.com/denysdovhan/wtfjs - A list of funny and tricky JavaScript examples
+
+## Youtube
+https://www.youtube.com/watch?v=YtKw9bmenPk - 10 Github repositories every web developer should know
+
