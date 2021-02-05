@@ -26,8 +26,11 @@ https://free-for.dev/#/ - List of software (SaaS, PaaS, IaaS, etc.) and other of
 
 ## Mindset
 https://www.youtube.com/watch?v=6vj96QetfTg&t=1999s - How the Best Hackers Learn their Craft
+
 https://www.youtube.com/watch?v=9vJRopau0g0 - TEDx Gamify Learning - Mark Rober
+
 https://www.youtube.com/watch?v=6iM6M_7wBMc - TEDx Complete Mastery of a craft - Alex Honnold
+
 https://www.youtube.com/watch?v=TQMbvJNRpLE - TEDx Achieving any Ambitious Goal - Stephen Duneier
 
 ## Utilities
@@ -35,6 +38,8 @@ https://spblog.net/post/2020/06/10/how-to-effectively-delete-node-modules-on-win
 
 ## Curated Lists of other awesome devs
 https://github.com/LeCoupa/awesome-bootstrappers - Must-read articles, videos, books and tools for bootstrappers.
+
 https://github.com/denysdovhan/wtfjs - A list of funny and tricky JavaScript examples
+
 https://www.youtube.com/watch?v=YtKw9bmenPk - 10 Github repositories every Web developer should know
 
