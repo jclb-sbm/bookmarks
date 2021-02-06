@@ -33,6 +33,8 @@ https://www.youtube.com/watch?v=6iM6M_7wBMc - TEDx Complete Mastery of a craft -
 
 https://www.youtube.com/watch?v=TQMbvJNRpLE - TEDx Achieving any Ambitious Goal - Stephen Duneier
 
+https://www.youtube.com/watch?v=5MgBikgcWnY - TEDx Learning anything in 20 hours - Josh Kaufman
+
 ## Utilities
 https://spblog.net/post/2020/06/10/how-to-effectively-delete-node-modules-on-windows - Delete node_modules using rimraf
 
