@@ -49,3 +49,5 @@ https://github.com/denysdovhan/wtfjs - A list of funny and tricky JavaScript exa
 
 https://www.youtube.com/watch?v=YtKw9bmenPk - 10 Github repositories every Web developer should know
 
+https://github.com/dustinspecker/awesome-eslint - List of ESlint Plugins and Guides
+
