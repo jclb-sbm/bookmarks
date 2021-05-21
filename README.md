@@ -4,6 +4,7 @@ Useful links I have found that helped me in my software development career
 
 ## Learning
 https://www.javascripttutorial.net/ - Useful Javascript Docs
+
 https://kalkicode.com/ - Coding Tutorials
 
 ## VueJS
