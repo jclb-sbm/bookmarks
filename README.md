@@ -20,6 +20,10 @@ http://getbem.com/ - Block Element Modifier is a methodology that helps you to c
 ## UX
 https://lawsofux.com/ - 20 Laws of UX
 
+## Architecture
+https://mvoloskov.hashnode.dev/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google - Scalable Architecture
+
+
 ## Versioning
 https://github.com/commitizen - Zen-like commit messages for internet citizens.
 
