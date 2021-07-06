@@ -49,6 +49,8 @@ https://www.youtube.com/watch?v=5MgBikgcWnY - TEDx Learning anything in 20 hours
 https://spblog.net/post/2020/06/10/how-to-effectively-delete-node-modules-on-windows - Delete node_modules using rimraf
 
 ## Curated Lists of other awesome devs
+https://github.com/tum-esi/common-coding-conventions - Common Coding Conventions
+
 https://github.com/LeCoupa/awesome-bootstrappers - Must-read articles, videos, books and tools for bootstrappers.
 
 https://github.com/denysdovhan/wtfjs - A list of funny and tricky JavaScript examples
