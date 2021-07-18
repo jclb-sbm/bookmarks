@@ -7,6 +7,8 @@ https://www.javascripttutorial.net/ - Useful Javascript Docs
 
 https://kalkicode.com/ - Coding Tutorials
 
+https://dmitripavlutin.com/ - JS & React Learning Blog
+
 ## VueJS
 https://overvue.dev/ - Minimalistic Beginner Guide on VueJS
 
