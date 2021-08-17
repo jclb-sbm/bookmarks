@@ -11,6 +11,10 @@ https://dmitripavlutin.com/ - JS & React Learning Blog
 
 https://devtrium.com/ - JS & React Learning Blog
 
+https://www.codewell.cc/ - Frontend Coding Challenges
+
+https://www.frontendmentor.io/ - Frontend Coding Challenges
+
 ## VueJS
 https://overvue.dev/ - Minimalistic Beginner Guide on VueJS
 
