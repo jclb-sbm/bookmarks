@@ -22,6 +22,10 @@ https://fadamakis.medium.com/7-vue-patterns-that-you-should-be-using-more-often-
 
 https://github.com/vuejs/awesome-vue - A curated list of awesome things related to Vue.js 
 
+## ReactJS
+
+https://usehooks.com/ - Custom Hooks recipes
+
 ## CSS
 http://getbem.com/ - Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
 
