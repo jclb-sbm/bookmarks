@@ -71,3 +71,5 @@ https://www.youtube.com/watch?v=YtKw9bmenPk - 10 Github repositories every Web d
 
 https://github.com/dustinspecker/awesome-eslint - List of ESlint Plugins and Guides
 
+https://github.com/daryllxd/lifelong-learning - Lifelong Learning of Daryll Santos
+
