@@ -73,3 +73,4 @@ https://github.com/dustinspecker/awesome-eslint - List of ESlint Plugins and Gui
 
 https://github.com/daryllxd/lifelong-learning - Lifelong Learning of Daryll Santos
 
+https://github.com/sadanandpai/frontend-learning-kit - Front-end Learning Kit
