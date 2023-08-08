@@ -23,8 +23,13 @@ https://fadamakis.medium.com/7-vue-patterns-that-you-should-be-using-more-often-
 https://github.com/vuejs/awesome-vue - A curated list of awesome things related to Vue.js 
 
 ## ReactJS
-
 https://usehooks.com/ - Custom Hooks recipes
+
+https://www.linkedin.com/pulse/solid-principles-reactjs-oleksii-bortnytskyi/ - SOLID Design Pattern for React 1.
+
+https://medium.com/docler-engineering/applying-solid-to-react-ca6d1ff926a4 - SOLID Design Pattern for React 2.
+
+https://github.com/ipenywis/react-solid - SOLID Design Pattern for React 3.
 
 ## CSS
 http://getbem.com/ - Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
@@ -32,12 +37,13 @@ http://getbem.com/ - Block Element Modifier is a methodology that helps you to c
 ## UI
 https://www.happyhues.co/ - Happy Hues :)
 
+https://floating-ui.com/ - Library of pop-up helpers.
+
 ## UX
 https://lawsofux.com/ - 20 Laws of UX
 
 ## Architecture
 https://mvoloskov.hashnode.dev/scalable-architecture-without-magic-and-how-to-build-it-if-youre-not-google - Scalable Architecture
-
 
 ## Versioning
 https://github.com/commitizen - Zen-like commit messages for internet citizens.
@@ -46,7 +52,7 @@ https://github.com/commitizen - Zen-like commit messages for internet citizens.
 https://free-for.dev/#/ - List of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
 ## Mindset
-https://www.youtube.com/watch?v=6vj96QetfTg&t=1999s - How the Best Hackers Learn their Craft
+https://www.youtube.com/watch?v=6vj96QetfTg&t=1999s - How the Best Hackers Learn Their Craft
 
 https://www.youtube.com/watch?v=9vJRopau0g0 - TEDx Gamify Learning - Mark Rober
 
