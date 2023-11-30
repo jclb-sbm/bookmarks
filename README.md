@@ -31,6 +31,8 @@ https://medium.com/docler-engineering/applying-solid-to-react-ca6d1ff926a4 - SOL
 
 https://github.com/ipenywis/react-solid - SOLID Design Pattern for React 3.
 
+https://gist.github.com/mrousavy/0de7486814c655de8a110df5cef74ddc - Optimization with Memoization
+
 ## CSS
 http://getbem.com/ - Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development
 
